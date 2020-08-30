@@ -1,0 +1,7 @@
+<RCC>
+  <qresource prefix="Images">
+    <file>spotifyIcon.png</file>
+    <file>MusicPyLogo.png</file>
+    <file>background.png</file>
+  </qresource>
+</RCC>
